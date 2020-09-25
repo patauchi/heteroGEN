@@ -1,2 +1,2 @@
 # heteroGEN
-testing heterogeneity
+Here we are testing heterogeneity index...
